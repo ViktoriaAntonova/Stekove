@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "стек-зад1", "сте�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "стекове-2зад", "стекове-2зад\стекове-2зад.csproj", "{FF84B45D-0C3B-49C1-9099-70C6AB082C9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opashki-1", "opashki-1\opashki-1.csproj", "{A151D48C-D847-4121-9475-29352F7C1E1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FF84B45D-0C3B-49C1-9099-70C6AB082C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF84B45D-0C3B-49C1-9099-70C6AB082C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF84B45D-0C3B-49C1-9099-70C6AB082C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A151D48C-D847-4121-9475-29352F7C1E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A151D48C-D847-4121-9475-29352F7C1E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A151D48C-D847-4121-9475-29352F7C1E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A151D48C-D847-4121-9475-29352F7C1E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
