@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "стек-зад1", "стек-зад1\стек-зад1.csproj", "{73C3DECE-3B1C-44E7-85B7-F517FDF91864}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "стекове-2зад", "стекове-2зад\стекове-2зад.csproj", "{FF84B45D-0C3B-49C1-9099-70C6AB082C9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{73C3DECE-3B1C-44E7-85B7-F517FDF91864}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73C3DECE-3B1C-44E7-85B7-F517FDF91864}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73C3DECE-3B1C-44E7-85B7-F517FDF91864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF84B45D-0C3B-49C1-9099-70C6AB082C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF84B45D-0C3B-49C1-9099-70C6AB082C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF84B45D-0C3B-49C1-9099-70C6AB082C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF84B45D-0C3B-49C1-9099-70C6AB082C9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
