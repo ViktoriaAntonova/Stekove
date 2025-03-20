@@ -11,15 +11,13 @@ namespace opashki_1
         static void Main(string[] args)
         {
             Console.WriteLine("Vuvedete chislo mejdu 10 i 100");
-            int N;
-            N = int.Parse(Console.ReadLine());
+            int N = int.Parse(Console.ReadLine());
             if (N < 10 || N > 100)
             {
                 Console.WriteLine("error");
                 return;
             }
             Queue<int> queue = new Queue<int>();
-
             Random rand = new Random();
             for (int i = 0; i < N; i++)
             {
